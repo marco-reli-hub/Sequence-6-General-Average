@@ -1,4 +1,4 @@
-// 6. Write a code that will input for prelim, midterms and finals, compute and display the average.
+// 6. Write a C++ code that will input for prelim, midterms and finals, compute and display the average.
 
 #include <iostream>
 using namespace std;
