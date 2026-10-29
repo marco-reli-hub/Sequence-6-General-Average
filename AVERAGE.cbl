@@ -1,5 +1,4 @@
-      *    6. Write a code that will input for prelim, midterms
-      *       and finals, compute and display the average.
+      *    6. Write a COBOL code that will input for prelim, midterms and finals, compute and display the average.
 
        IDENTIFICATION DIVISION.
        PROGRAM-ID. GENERAL-AVERAGE-PROGRAM.
